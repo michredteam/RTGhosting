@@ -24,6 +24,6 @@ Finally, create a thread from the entry point of the PE image, initiating the de
 
 How to Use
 
-RTGhosting.exe <path of the program to execute>
+RTGhosting.exe <<path of the program to execute>>
 
 If no parameter is specified, cmd.exe will be invoked by default for practical purposes.
